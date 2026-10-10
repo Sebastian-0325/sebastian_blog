@@ -105,11 +105,7 @@ const config = {
 		  	label: '關於我',
 		  	position: 'left'
 		  },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+         
         ],
       },
       footer: {
@@ -143,14 +139,7 @@ const config = {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
+              
             ],
           },
           {
