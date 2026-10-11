@@ -96,12 +96,12 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
 		  {
-		  	to: '/docs/now',
+		  	to: '/now',
 		  	label: '近況',
 		  	position: 'left'
 		  	},
 		  {
-		  	to: '/docs/about',
+		  	to: '/about',
 		  	label: '關於我',
 		  	position: 'left'
 		  },

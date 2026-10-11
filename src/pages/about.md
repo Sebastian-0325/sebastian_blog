@@ -1,7 +1,7 @@
 ---
 
 title: 'about'
-slug: 'about'
+
 
 ---
 
