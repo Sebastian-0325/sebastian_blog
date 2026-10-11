@@ -124,11 +124,11 @@ const config = {
               },
               {
               	label: '近況/now',
-              	to: '/docs/now',
+              	to: '/now',
               },
               {
               	label: '關於我/about',
-              	to: '/docs/about',
+              	to: '/about',
               },
             ],
           },
