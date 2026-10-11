@@ -27,8 +27,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'sebastian-0325', // Usually your GitHub org/user name.
+  projectName: 'sebastian_blog', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -36,8 +36,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hant',
+    locales: ['zh-Hant'],
   },
 
   presets: [
@@ -49,8 +49,7 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+       
         },
         blog: {
           showReadingTime: true,
@@ -88,12 +87,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
+         
           {to: '/blog', label: 'Blog', position: 'left'},
 		  {
 		  	to: '/now',
@@ -133,28 +127,15 @@ const config = {
             ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
+          	title: '更多',
+          	items: [
+          		{
+          			label: 'RSS',
+          			href: 'https://sebastian.tw/blog/rss.xml',
+          		}
+          	]
+          }
+         
         ],
         copyright: `版權所有 © ${new Date().getFullYear()} Sebastian Huang `,
       },
