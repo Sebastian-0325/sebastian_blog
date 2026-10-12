@@ -108,10 +108,7 @@ const config = {
           {
             title: '站內連結',
             items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
+              
               {
               	label: '貼文/blog',
               	to: '/blog',
