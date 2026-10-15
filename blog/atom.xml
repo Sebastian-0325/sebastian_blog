@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sebastian.tw/blog</id>
     <title>Sebastian's blog Blog</title>
-    <updated>2026-10-12T00:00:00.000Z</updated>
+    <updated>2026-10-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sebastian.tw/blog"/>
     <subtitle>Sebastian's blog Blog</subtitle>
     <icon>https://sebastian.tw/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[個人網站是湖濱小屋]]></title>
+        <id>https://sebastian.tw/blog/walden</id>
+        <link href="https://sebastian.tw/blog/walden"/>
+        <updated>2026-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[發呆的時候突然想到，自己的網站不就是《湖濱散記》中的小木屋嗎？]]></summary>
+        <content type="html"><![CDATA[<p>發呆的時候突然想到，自己的網站不就是《湖濱散記》中的小木屋嗎？</p>
+<p>梭羅在華爾登湖畔自己建造自己的小屋，平時就在裡面看書、寫書，過上自己自足、遠離世俗的生活。
+這不就就是獨立網站在做的事情嗎？</p>
+<ul>
+<li class="">寫文章 →寫blog</li>
+<li class="">看書 → 讀別人的blog</li>
+<li class="">自己蓋小木屋 → 自己架自己的網站</li>
+<li class="">遇到路過的獵人、伐木工，邀請他們到家裡聊天 →遇到路過網站的訪客，跟他用e-mail聊天</li>
+<li class="">遠離擁擠的市區 → 遠離擁擠的社群媒體</li>
+<li class=""><del>偷偷跑回家吃媽媽做的餅乾 →忍不住開始滑shorts</del></li>
+</ul>
+<p>和梭羅一樣，我們都在追求更加自由、更清靜的生活，我們同樣思考著什麼是自己真正珍惜的生活方式，
+這是不管什麼時代清醒的人都會沉思的問題。</p>
+<p>如果你還沒有自己的網站，也來建立屬於你的小屋吧！</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[clean tangerine]]></title>
         <id>https://sebastian.tw/blog/clean_tangerine</id>
