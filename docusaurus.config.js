@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Sebastian's blog",
-  tagline: 'I contain multitudes',
+  tagline: 'I contain multitudes.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -65,12 +65,30 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
+        
         theme: {
           customCss: './src/css/custom.css',
         },
       }),
     ],
   ],
+
+    plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'albums-blog',
+        routeBasePath: 'albums',
+        path: './albums', 
+        blogListComponent: '@site/src/components/AlbumsPage',
+        blogPostComponent: '@theme/BlogPostPage',
+        showReadingTime: false,
+        // 💡 這裡已經沒有任何 onUpcomingBlogPosts 了！乾乾淨淨！
+        include: ['**/*.{md,mdx}'], 
+      },
+    ],
+  ],
+
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -99,6 +117,16 @@ const config = {
 		  	label: '關於我',
 		  	position: 'left'
 		  },
+		  {
+		    to: '/albums',
+		    label: '專輯牆',
+		  	position: 'left'
+		  },
+		   {
+		    to: '/books',
+		    label: '書單',
+		  	position: 'left'
+		  },
          
         ],
       },
@@ -121,6 +149,14 @@ const config = {
               	label: '關於我/about',
               	to: '/about',
               },
+              {
+                label: '專輯牆/albums',
+                to: '/albums',
+              },
+              {
+                label: '書單/books',
+                to: '/books',
+               },
             ],
           },
           {
