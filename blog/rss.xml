@@ -4,10 +4,28 @@
         <title>Sebastian's blog Blog</title>
         <link>https://sebastian.tw/blog</link>
         <description>Sebastian's blog Blog</description>
-        <lastBuildDate>Thu, 15 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
+        <item>
+            <title><![CDATA[專輯牆、書單頁面上線]]></title>
+            <link>https://sebastian.tw/blog/album-wall,book-list</link>
+            <guid>https://sebastian.tw/blog/album-wall,book-list</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[專輯牆]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="專輯牆">專輯牆<a href="https://sebastian.tw/blog/album-wall,book-list#%E5%B0%88%E8%BC%AF%E7%89%86" class="hash-link" aria-label="專輯牆的直接連結" title="專輯牆的直接連結" translate="no">​</a></h2>
+<p>經歷了好幾個與網頁程式搏鬥的夜晚，<a class="" href="https://sebastian.tw/albums">專輯牆</a>終於上線啦！
+這裡會放上我最珍愛的專輯們和我所關注的曲目。目前已經放上幾張狄倫專輯，其他的就之後在慢慢放上去吧。</p>
+<p>我不把這視為樂評，只是放上我對於這張專輯的想法，所以把ai幫我寫的評分區塊移除了。</p>
+<p>我的品味還不足以寫出好的音樂評論。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="待讀書單">待讀書單<a href="https://sebastian.tw/blog/album-wall,book-list#%E5%BE%85%E8%AE%80%E6%9B%B8%E5%96%AE" class="hash-link" aria-label="待讀書單的直接連結" title="待讀書單的直接連結" translate="no">​</a></h2>
+<p>另外一個新增的頁面是<a class="" href="https://sebastian.tw/books">待讀書單</a>。
+之前在<a href="https://philomedium.com/biblio/80331" target="_blank" rel="noopener noreferrer" class="">《如何閱讀一本書》</a>裡的推薦書目裡看到好多書都想看，就一直很想找一張紙把我未來想看的書做成一份書單
+既然現在有了網站，就把它寫在這裡吧。</p>
+<p>我打算看完一本就把它劃掉，長期下來就能紀錄自己的閱讀軌跡。</p>
+<p>(<del>新增的速度一定是遠大於的劃掉的速度</del>)</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[個人網站是湖濱小屋]]></title>
             <link>https://sebastian.tw/blog/walden</link>
