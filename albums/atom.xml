@@ -8,13 +8,23 @@
     <subtitle>Sebastian's blog Blog</subtitle>
     <icon>https://sebastian.tw/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[A Love Supreme]]></title>
+        <id>https://sebastian.tw/albums/2026/10/23/a_love_supreme</id>
+        <link href="https://sebastian.tw/albums/2026/10/23/a_love_supreme"/>
+        <updated>2026-10-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[經典。]]></summary>
+        <content type="html"><![CDATA[<div style="display:flex;border:1px solid var(--ifm-color-emphasis-300);border-radius:12px;padding:16px;margin-bottom:20px;background:var(--ifm-card-background-color);box-shadow:0 4px 12px rgba(0,0,0,0.05);max-width:600px"><div style="margin-right:20px;flex-shrink:0"><img src="https://upload.wikimedia.org/wikipedia/en/9/9a/John_Coltrane_-_A_Love_Supreme.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" alt="A Love Supreme - John Coltrane" width="150" height="150" loading="lazy" style="border-radius:8px;object-fit:cover;display:block"></div><div style="display:flex;flex-direction:column;justify-content:center;flex-grow:1"><div><h3 style="margin:0 0 4px 0;font-size:1.4rem">A Love Supreme</h3><p style="margin:0 0 12px 0;color:var(--ifm-color-emphasis-700);font-weight:500">John Coltrane</p><div style="font-size:0.9rem;color:var(--ifm-color-emphasis-600)"><div>發行年份：<!-- -->1965</div><div>音樂曲風：<!-- -->jazz</div></div></div></div></div>
+<p>經典。</p>
+<p>專輯本身就是一個整體，不能拆開看</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Beatles]]></title>
         <id>https://sebastian.tw/albums/2026/10/23/white-album</id>
         <link href="https://sebastian.tw/albums/2026/10/23/white-album"/>
         <updated>2026-10-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[..才沒有人叫它'the beatles'，人們稱它為'whitwe albun'。]]></summary>
+        <summary type="html"><![CDATA[..才沒有人叫它'the beatles'，人們稱它為'whitwe album'「白碟」。]]></summary>
         <content type="html"><![CDATA[<div style="display:flex;border:1px solid var(--ifm-color-emphasis-300);border-radius:12px;padding:16px;margin-bottom:20px;background:var(--ifm-card-background-color);box-shadow:0 4px 12px rgba(0,0,0,0.05);max-width:600px"><div style="margin-right:20px;flex-shrink:0"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/TheBeatles68LP.jpg" alt="The Beatles - the Beatles" width="150" height="150" loading="lazy" style="border-radius:8px;object-fit:cover;display:block"></div><div style="display:flex;flex-direction:column;justify-content:center;flex-grow:1"><div><h3 style="margin:0 0 4px 0;font-size:1.4rem">The Beatles</h3><p style="margin:0 0 12px 0;color:var(--ifm-color-emphasis-700);font-weight:500">the Beatles</p><div style="font-size:0.9rem;color:var(--ifm-color-emphasis-600)"><div>發行年份：<!-- -->1968</div><div>音樂曲風：<!-- -->rock(?)</div></div></div></div></div>
-<p>..才沒有人叫它'the beatles'，人們稱它為'whitwe albun'。</p>
+<p>..才沒有人叫它'the beatles'，人們稱它為'whitwe album'「白碟」。</p>
 <p>白色就是所有顏色的集合。簡潔的專輯封面底下是充滿色彩變化的音樂。</p>
 <p>這張專輯充滿各式各樣的風格，實在很難分門別類。</p>
 <p>30首歌，能夠同時包含了藍調、民謠、迷換搖滾、前衛拼貼音樂，這就是披頭，他們不被侷限於單一的風格。</p>
@@ -66,7 +76,7 @@
 <li class="">Lily,Rosemarry,and the Jack of heart</li>
 <li class="">If you see her,say hello</li>
 <li class="">Shelter from the storm</li>
-<li class="">Bucksts of rain</li>
+<li class="">Buckets of rain</li>
 </ul>]]></content>
     </entry>
     <entry>
