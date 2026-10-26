@@ -38,4 +38,4 @@ import AlbumCard from '@site/src/components/AlbumCard';
 - Lily,Rosemarry,and the Jack of heart
 - If you see her,say hello
 - Shelter from the storm
-- Bucksts of rain
+- Buckets of rain

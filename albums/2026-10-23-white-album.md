@@ -12,7 +12,7 @@ import AlbumCard from '@site/src/components/AlbumCard'
 
 <AlbumCard {...frontMatter} />
 
-..才沒有人叫它'the beatles'，人們稱它為'whitwe albun'。
+..才沒有人叫它'the beatles'，人們稱它為'whitwe album'「白碟」。
 
 
 白色就是所有顏色的集合。簡潔的專輯封面底下是充滿色彩變化的音樂。
