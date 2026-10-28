@@ -24,7 +24,7 @@ import AlbumCard from '@site/src/components/AlbumCard';
 >  Tangled up in blue
 
 
- 目前為止我最喜歡的一張狄倫專輯。
+ 目前為止我最喜歡的一張狄倫專輯。（有時後會聽到哭那種）
 
  很奇怪，一個根本連戀愛經驗都沒有的人居然對一張"break up album"有感觸
 
