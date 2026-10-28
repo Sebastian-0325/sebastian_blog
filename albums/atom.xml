@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sebastian.tw/albums</id>
     <title>Sebastian's blog Blog</title>
-    <updated>2026-10-23T00:00:00.000Z</updated>
+    <updated>2026-10-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sebastian.tw/albums"/>
     <subtitle>Sebastian's blog Blog</subtitle>
     <icon>https://sebastian.tw/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Abbey Road]]></title>
+        <id>https://sebastian.tw/albums/2026/10/27/abbey_road</id>
+        <link href="https://sebastian.tw/albums/2026/10/27/abbey_road"/>
+        <updated>2026-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我的其中一張愛盤]]></summary>
+        <content type="html"><![CDATA[<div style="display:flex;border:1px solid var(--ifm-color-emphasis-300);border-radius:12px;padding:16px;margin-bottom:20px;background:var(--ifm-card-background-color);box-shadow:0 4px 12px rgba(0,0,0,0.05);max-width:600px"><div style="margin-right:20px;flex-shrink:0"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Beatles_Abbey_Road_album_cover.jpg/960px-The_Beatles_Abbey_Road_album_cover.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="Abbey Road - The Beatles" width="150" height="150" loading="lazy" style="border-radius:8px;object-fit:cover;display:block"></div><div style="display:flex;flex-direction:column;justify-content:center;flex-grow:1"><div><h3 style="margin:0 0 4px 0;font-size:1.4rem">Abbey Road</h3><p style="margin:0 0 12px 0;color:var(--ifm-color-emphasis-700);font-weight:500">The Beatles</p><div style="font-size:0.9rem;color:var(--ifm-color-emphasis-600)"><div>發行年份：<!-- -->1969</div><div>音樂曲風：<!-- -->rock</div></div></div></div></div>
+<p>我的其中一張愛盤</p>
+<p>音樂製作精良，聲音的質地很好。</p>
+<p>大概是披頭四的巔峰之作。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="精選曲目">精選曲目<a href="https://sebastian.tw/albums/2026/10/27/abbey_road#%E7%B2%BE%E9%81%B8%E6%9B%B2%E7%9B%AE" class="hash-link" aria-label="精選曲目的直接連結" title="精選曲目的直接連結" translate="no">​</a></h2>
+<ul>
+<li class="">Come Together</li>
+<li class="">Something</li>
+<li class="">Here comes the Sun</li>
+<li class="">I want you(She's so Heavy)</li>
+<li class="">B面組曲</li>
+</ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Love Supreme]]></title>
         <id>https://sebastian.tw/albums/2026/10/23/a_love_supreme</id>
@@ -64,7 +83,7 @@
 <p>Like it was written in my soul from me to you</p>
 <p>Tangled up in blue</p>
 </blockquote>
-<p>目前為止我最喜歡的一張狄倫專輯。</p>
+<p>目前為止我最喜歡的一張狄倫專輯。（有時後會聽到哭那種）</p>
 <p>很奇怪，一個根本連戀愛經驗都沒有的人居然對一張"break up album"有感觸</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="精選曲目">精選曲目<a href="https://sebastian.tw/albums/blood_on_the_tracks#%E7%B2%BE%E9%81%B8%E6%9B%B2%E7%9B%AE" class="hash-link" aria-label="精選曲目的直接連結" title="精選曲目的直接連結" translate="no">​</a></h2>
 <p>(幾乎全部啊）</p>
@@ -84,14 +103,17 @@
         <id>https://sebastian.tw/albums/highway61</id>
         <link href="https://sebastian.tw/albums/highway61"/>
         <updated>2026-10-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[精選曲目]]></summary>
+        <summary type="html"><![CDATA[這張專輯聽起來像狄倫封面上穿的那件花襯衫，又或是沙地和叢林。（有一點深綠色？）]]></summary>
         <content type="html"><![CDATA[<div style="display:flex;border:1px solid var(--ifm-color-emphasis-300);border-radius:12px;padding:16px;margin-bottom:20px;background:var(--ifm-card-background-color);box-shadow:0 4px 12px rgba(0,0,0,0.05);max-width:600px"><div style="margin-right:20px;flex-shrink:0"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bob_Dylan_-_Highway_61_Revisited.jpg/250px-Bob_Dylan_-_Highway_61_Revisited.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="Highway 61 Revisited - Bob Dylan" width="150" height="150" loading="lazy" style="border-radius:8px;object-fit:cover;display:block"></div><div style="display:flex;flex-direction:column;justify-content:center;flex-grow:1"><div><h3 style="margin:0 0 4px 0;font-size:1.4rem">Highway 61 Revisited</h3><p style="margin:0 0 12px 0;color:var(--ifm-color-emphasis-700);font-weight:500">Bob Dylan</p><div style="font-size:0.9rem;color:var(--ifm-color-emphasis-600)"><div>發行年份：<!-- -->1965</div><div>音樂曲風：<!-- -->folk rock/blues rock</div></div></div></div></div>
+<p>這張專輯聽起來像狄倫封面上穿的那件花襯衫，又或是沙地和叢林。（有一點深綠色？）</p>
+<p>不要問我，我也不知道為什麼，可能是因為裡面的那種特別的鋼琴聲吧。</p>
+<p>不過有一些曲目還需要多花一些時間才能完全聽進去。</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="精選曲目">精選曲目<a href="https://sebastian.tw/albums/highway61#%E7%B2%BE%E9%81%B8%E6%9B%B2%E7%9B%AE" class="hash-link" aria-label="精選曲目的直接連結" title="精選曲目的直接連結" translate="no">​</a></h2>
 <ul>
-<li class="">Ballad of a Thin Man</li>
-<li class="">Desolation Row</li>
-<li class="">Just like Tom Thumb's blues</li>
 <li class="">Like a Rolling Stone</li>
+<li class="">Ballad of a Thin Man</li>
+<li class="">Just like Tom Thumb's blues</li>
+<li class="">Desolation Row</li>
 </ul>]]></content>
     </entry>
     <entry>
