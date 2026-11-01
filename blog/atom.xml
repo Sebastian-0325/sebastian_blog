@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sebastian.tw/blog</id>
     <title>Sebastian's blog Blog</title>
-    <updated>2026-10-23T00:00:00.000Z</updated>
+    <updated>2026-11-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sebastian.tw/blog"/>
     <subtitle>Sebastian's blog Blog</subtitle>
     <icon>https://sebastian.tw/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[去你的，musescore.com]]></title>
+        <id>https://sebastian.tw/blog/musescore-com-scam</id>
+        <link href="https://sebastian.tw/blog/musescore-com-scam"/>
+        <updated>2026-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[真的要被musescore氣死。]]></summary>
+        <content type="html"><![CDATA[<p>真的要被musescore氣死。</p>
+<p>大概是今年初，在網站上買琴譜（那時候還沒看到<a href="https://wiwi.blog/blog/musescore-com-scam" target="_blank" rel="noopener noreferrer" class="">wiwi文章</a>)，結果幾個月後信用卡被扣會員方案的款項，
+當時也就只好把它取消，摸摸鼻子認了。</p>
+<p>結果，今天又被扣款了。都已經按取消訂閱了，又來。(@#@$@#$^%#！)</p>
+<p>到底是對自家的服務多沒自信才需要這樣費盡心機騙人訂閱啊？如果你真的能提供好的服務，哪怕用戶取消訂閱？如果是好的平台，就算寫一個大大的取消訂閱在主畫面中間也不用擔心，根本就不需要
+把它藏很難找到的地方，還把它叫做「更變你的權益」。</p>
+<p>越寫越氣。這篇就是我對musescore.com的<a href="https://wiwi.blog/blog/blog-revenge/" target="_blank" rel="noopener noreferrer" class="">復仇</a>。對於這種沒良心又對自己服務沒自信的公司，你們應該知道要怎麼做吧？</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[專輯牆、書單頁面上線]]></title>
         <id>https://sebastian.tw/blog/album-wall,book-list</id>

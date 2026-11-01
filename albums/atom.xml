@@ -2,11 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sebastian.tw/albums</id>
     <title>Sebastian's blog Blog</title>
-    <updated>2026-10-27T00:00:00.000Z</updated>
+    <updated>2026-11-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sebastian.tw/albums"/>
     <subtitle>Sebastian's blog Blog</subtitle>
     <icon>https://sebastian.tw/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Dark Side of the Moon]]></title>
+        <id>https://sebastian.tw/albums/dark-side-of-the-moon</id>
+        <link href="https://sebastian.tw/albums/dark-side-of-the-moon"/>
+        <updated>2026-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[精選曲目]]></summary>
+        <content type="html"><![CDATA[<div style="display:flex;border:1px solid var(--ifm-color-emphasis-300);border-radius:12px;padding:16px;margin-bottom:20px;background:var(--ifm-card-background-color);box-shadow:0 4px 12px rgba(0,0,0,0.05);max-width:600px"><div style="margin-right:20px;flex-shrink:0"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Dark_Side_of_the_Moon.png/960px-Dark_Side_of_the_Moon.png?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" alt="The Dark Side of the Moon - Pink Floyd" width="150" height="150" loading="lazy" style="border-radius:8px;object-fit:cover;display:block"></div><div style="display:flex;flex-direction:column;justify-content:center;flex-grow:1"><div><h3 style="margin:0 0 4px 0;font-size:1.4rem">The Dark Side of the Moon</h3><p style="margin:0 0 12px 0;color:var(--ifm-color-emphasis-700);font-weight:500">Pink Floyd</p><div style="font-size:0.9rem;color:var(--ifm-color-emphasis-600)"><div>發行年份：<!-- -->1973</div><div>音樂曲風：<!-- -->art rock(?)</div></div></div></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="精選曲目">精選曲目<a href="https://sebastian.tw/albums/dark-side-of-the-moon#%E7%B2%BE%E9%81%B8%E6%9B%B2%E7%9B%AE" class="hash-link" aria-label="精選曲目的直接連結" title="精選曲目的直接連結" translate="no">​</a></h2>
+<ul>
+<li class="">Breathe(In the Air)</li>
+<li class="">On the Run</li>
+<li class="">Time</li>
+<li class="">The Great Gig in the Sky</li>
+<li class="">Money</li>
+<li class="">Us and Them</li>
+<li class="">Eclips</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Freewheelin' Bob Dylan]]></title>
+        <id>https://sebastian.tw/albums/freewheelin</id>
+        <link href="https://sebastian.tw/albums/freewheelin"/>
+        <updated>2026-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[原本聽不太進去。但最近越聽越喜歡。]]></summary>
+        <content type="html"><![CDATA[<div style="display:flex;border:1px solid var(--ifm-color-emphasis-300);border-radius:12px;padding:16px;margin-bottom:20px;background:var(--ifm-card-background-color);box-shadow:0 4px 12px rgba(0,0,0,0.05);max-width:600px"><div style="margin-right:20px;flex-shrink:0"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bob_Dylan_-_The_Freewheelin%27_Bob_Dylan.jpg/960px-Bob_Dylan_-_The_Freewheelin%27_Bob_Dylan.jpg" alt="The Freewheelin' Bob Dylan - Bob Dylan" width="150" height="150" loading="lazy" style="border-radius:8px;object-fit:cover;display:block"></div><div style="display:flex;flex-direction:column;justify-content:center;flex-grow:1"><div><h3 style="margin:0 0 4px 0;font-size:1.4rem">The Freewheelin' Bob Dylan</h3><p style="margin:0 0 12px 0;color:var(--ifm-color-emphasis-700);font-weight:500">Bob Dylan</p><div style="font-size:0.9rem;color:var(--ifm-color-emphasis-600)"><div>發行年份：<!-- -->1963</div><div>音樂曲風：<!-- -->folk</div></div></div></div></div>
+<p>原本聽不太進去。但最近越聽越喜歡。</p>
+<p>這應該是狄倫第一張經典專輯，裡面非常多經典。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="精選曲目">精選曲目<a href="https://sebastian.tw/albums/freewheelin#%E7%B2%BE%E9%81%B8%E6%9B%B2%E7%9B%AE" class="hash-link" aria-label="精選曲目的直接連結" title="精選曲目的直接連結" translate="no">​</a></h2>
+<ul>
+<li class="">Blow'in in the Wind</li>
+<li class="">Girl From the North Country</li>
+<li class="">Masters of War</li>
+<li class="">A Hard Rain's A-Gonna Fall</li>
+<li class="">Don't Think Twice,It's All Right</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horses]]></title>
+        <id>https://sebastian.tw/albums/horses</id>
+        <link href="https://sebastian.tw/albums/horses"/>
+        <updated>2026-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[精選曲目]]></summary>
+        <content type="html"><![CDATA[<div style="display:flex;border:1px solid var(--ifm-color-emphasis-300);border-radius:12px;padding:16px;margin-bottom:20px;background:var(--ifm-card-background-color);box-shadow:0 4px 12px rgba(0,0,0,0.05);max-width:600px"><div style="margin-right:20px;flex-shrink:0"><img src="https://upload.wikimedia.org/wikipedia/en/8/88/PattiSmithHorses.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Horses - Patti Smith" width="150" height="150" loading="lazy" style="border-radius:8px;object-fit:cover;display:block"></div><div style="display:flex;flex-direction:column;justify-content:center;flex-grow:1"><div><h3 style="margin:0 0 4px 0;font-size:1.4rem">Horses</h3><p style="margin:0 0 12px 0;color:var(--ifm-color-emphasis-700);font-weight:500">Patti Smith</p><div style="font-size:0.9rem;color:var(--ifm-color-emphasis-600)"><div>發行年份：<!-- -->1975</div><div>音樂曲風：<!-- -->Punk rock</div></div></div></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="精選曲目">精選曲目<a href="https://sebastian.tw/albums/horses#%E7%B2%BE%E9%81%B8%E6%9B%B2%E7%9B%AE" class="hash-link" aria-label="精選曲目的直接連結" title="精選曲目的直接連結" translate="no">​</a></h2>
+<ul>
+<li class="">Gloria/In Excelsis Deo</li>
+<li class="">Redondo Beach</li>
+<li class="">Birdland</li>
+<li class="">Land<!-- -->:Horses<!-- -->/Lan of a Thousand Dances/la mer(de)</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Rainbows ]]></title>
+        <id>https://sebastian.tw/albums/in_rainbows</id>
+        <link href="https://sebastian.tw/albums/in_rainbows"/>
+        <updated>2026-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Radiohead作品中我很喜歡的一張。也是會聽到哭那種。]]></summary>
+        <content type="html"><![CDATA[<div style="display:flex;border:1px solid var(--ifm-color-emphasis-300);border-radius:12px;padding:16px;margin-bottom:20px;background:var(--ifm-card-background-color);box-shadow:0 4px 12px rgba(0,0,0,0.05);max-width:600px"><div style="margin-right:20px;flex-shrink:0"><img src="https://upload.wikimedia.org/wikipedia/en/1/14/Inrainbowscover.png?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="In Rainbows  - Radiohead" width="150" height="150" loading="lazy" style="border-radius:8px;object-fit:cover;display:block"></div><div style="display:flex;flex-direction:column;justify-content:center;flex-grow:1"><div><h3 style="margin:0 0 4px 0;font-size:1.4rem">In Rainbows </h3><p style="margin:0 0 12px 0;color:var(--ifm-color-emphasis-700);font-weight:500">Radiohead</p><div style="font-size:0.9rem;color:var(--ifm-color-emphasis-600)"><div>發行年份：<!-- -->2007</div><div>音樂曲風：<!-- -->art rock(?)</div></div></div></div></div>
+<p>Radiohead作品中我很喜歡的一張。也是會聽到哭那種。</p>
+<p>順帶一提，Radiohead主唱每聽必哭的其中一首歌就在<a class="" href="https://sebastian.tw/albums/blood_on_the_tracks">blood on the tracks</a>裡。</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="精選曲目">精選曲目<a href="https://sebastian.tw/albums/in_rainbows#%E7%B2%BE%E9%81%B8%E6%9B%B2%E7%9B%AE" class="hash-link" aria-label="精選曲目的直接連結" title="精選曲目的直接連結" translate="no">​</a></h2>
+<ul>
+<li class="">Nude</li>
+<li class="">Weird Fishes/Arpeggi</li>
+<li class="">All I Need</li>
+<li class="">House of Cards</li>
+<li class="">Videotape</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wish You Were Here]]></title>
+        <id>https://sebastian.tw/albums/wish-you-were-here</id>
+        <link href="https://sebastian.tw/albums/wish-you-were-here"/>
+        <updated>2026-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[精選曲目]]></summary>
+        <content type="html"><![CDATA[<div style="display:flex;border:1px solid var(--ifm-color-emphasis-300);border-radius:12px;padding:16px;margin-bottom:20px;background:var(--ifm-card-background-color);box-shadow:0 4px 12px rgba(0,0,0,0.05);max-width:600px"><div style="margin-right:20px;flex-shrink:0"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Pink_Floyd%2C_Wish_You_Were_Here_%281975%29.png" alt="Wish You Were Here - Pink FLoyd" width="150" height="150" loading="lazy" style="border-radius:8px;object-fit:cover;display:block"></div><div style="display:flex;flex-direction:column;justify-content:center;flex-grow:1"><div><h3 style="margin:0 0 4px 0;font-size:1.4rem">Wish You Were Here</h3><p style="margin:0 0 12px 0;color:var(--ifm-color-emphasis-700);font-weight:500">Pink FLoyd</p><div style="font-size:0.9rem;color:var(--ifm-color-emphasis-600)"><div>發行年份：<!-- -->1975</div><div>音樂曲風：<!-- -->art rock(?)</div></div></div></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="精選曲目">精選曲目<a href="https://sebastian.tw/albums/wish-you-were-here#%E7%B2%BE%E9%81%B8%E6%9B%B2%E7%9B%AE" class="hash-link" aria-label="精選曲目的直接連結" title="精選曲目的直接連結" translate="no">​</a></h2>
+<ul>
+<li class="">Shine on Your Crazy Diamond pt.1-9</li>
+<li class="">Wish You Were Here</li>
+<li class="">Have a Cigar</li>
+</ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abbey Road]]></title>
         <id>https://sebastian.tw/albums/2026/10/27/abbey_road</id>
