@@ -85,6 +85,7 @@ const config = {
         showReadingTime: false,
         // 💡 這裡已經沒有任何 onUpcomingBlogPosts 了！乾乾淨淨！
         include: ['**/*.{md,mdx}'], 
+        postsPerPage: 'ALL', 
       },
     ],
   ],

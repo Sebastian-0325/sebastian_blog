@@ -9,7 +9,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        這個網站的存在完全是依靠燃燒熱情
+        0%的AI，100%的愛 
         
       </>
     ), 
