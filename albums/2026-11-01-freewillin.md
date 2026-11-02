@@ -14,7 +14,7 @@ import AlbumCard from '@site/src/components/AlbumCard';
 
 原本聽不太進去。但最近越聽越喜歡。
 
-這應該是狄倫第一張經典專輯，裡面非常多經典。
+這應該是狄倫第一張重要專輯，裡面非常多經典曲目。
 
 
 ## 精選曲目

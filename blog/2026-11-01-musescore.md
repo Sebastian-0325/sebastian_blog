@@ -7,7 +7,7 @@ slug: musescore-com-scam
 
 真的要被musescore氣死。
 
-大概是今年初，在網站上買琴譜（那時候還沒看到[wiwi文章](https://wiwi.blog/blog/musescore-com-scam))，結果幾個月後信用卡被扣會員方案的款項，
+大概是今年初，在網站上買琴譜（那時候還沒看到[wiwi的文章](https://wiwi.blog/blog/musescore-com-scam))，結果幾個月後信用卡被扣會員方案的款項，
 當時也就只好把它取消，摸摸鼻子認了。
 
 結果，今天又被扣款了。都已經按取消訂閱了，又來。(@#@$@#$^%#！)
