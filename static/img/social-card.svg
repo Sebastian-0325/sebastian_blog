@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="630"
+   viewBox="0 0 1200 630"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="social-card.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.94377213"
+     inkscape:cx="655.87866"
+     inkscape:cy="365.55434"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:211.85px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';fill:#cccccc;stroke-width:5.42958"
+       x="187.09059"
+       y="187.93507"
+       id="text485"
+       transform="scale(0.78832187,1.2685174)"><tspan
+         sodipodi:role="line"
+         id="tspan483"
+         x="187.09059"
+         y="187.93507"
+         style="stroke-width:5.42958">sebastian</tspan><tspan
+         sodipodi:role="line"
+         x="187.09059"
+         y="452.74759"
+         style="stroke-width:5.42958"
+         id="tspan589">          .tw</tspan></text>
+  </g>
+</svg>

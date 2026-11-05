@@ -6,7 +6,7 @@ const FeatureList = [
 
   {
     title: '用愛澆灌',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/love.svg').default,
     description: (
       <>
         0%的AI，100%的愛 

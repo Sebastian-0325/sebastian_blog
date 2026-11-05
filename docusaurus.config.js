@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Sebastian's blog",
-  tagline: 'I contain multitudes.',
-  favicon: 'img/favicon.ico',
+  title: "Sebastian.tw",
+  tagline: '歡迎來到我的網站！',
+  favicon: 'img/favicon-32x32.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -95,15 +95,15 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.svg',
       colorMode: {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: "Sebastian's blog",
+        title: "Sebastian.tw",
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/sebastian.tw.svg',
         },
         items: [
          
