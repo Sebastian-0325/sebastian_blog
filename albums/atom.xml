@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sebastian.tw/albums</id>
-    <title>Sebastian's blog Blog</title>
+    <title>Sebastian.tw Blog</title>
     <updated>2026-11-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sebastian.tw/albums"/>
-    <subtitle>Sebastian's blog Blog</subtitle>
-    <icon>https://sebastian.tw/img/favicon.ico</icon>
+    <subtitle>Sebastian.tw Blog</subtitle>
+    <icon>https://sebastian.tw/img/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[John Lennon/Plastic Ono Band]]></title>
         <id>https://sebastian.tw/albums/2026/11/02/plastic-ono-band</id>
