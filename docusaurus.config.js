@@ -64,6 +64,8 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: '所有文章',
         },
         
         theme: {
@@ -95,7 +97,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/social-card.svg',
+      image: 'img/social-card.jpg',
       colorMode: {
         respectPrefersColorScheme: true,
       },

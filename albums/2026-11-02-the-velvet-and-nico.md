@@ -36,7 +36,6 @@ import AlbumCard from '@site/src/components/AlbumCard';
 - I'm Waiting for the Man
 - Femme Fatale
 - Venus in Furs
-- Run Run Run
 - All Tomorrow's Party
 - Heroin
 - I'll be Your Mirror
