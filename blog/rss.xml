@@ -4,10 +4,20 @@
         <title>Sebastian.tw Blog</title>
         <link>https://sebastian.tw/blog</link>
         <description>Sebastian.tw Blog</description>
-        <lastBuildDate>Mon, 02 Nov 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
+        <item>
+            <title><![CDATA[Patti Smith ,John Cale&Lou Reed]]></title>
+            <link>https://sebastian.tw/blog/patti-cale-reed-live</link>
+            <guid>https://sebastian.tw/blog/patti-cale-reed-live</guid>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[在youtube上找到一支patti smith 和兩名VU團員的實況錄音，根本是夢幻連動吧！]]></description>
+            <content:encoded><![CDATA[<p>在youtube上找到一支patti smith 和兩名VU團員的<a href="https://youtu.be/OGTLIOAu0bY" target="_blank" rel="noopener noreferrer" class="">實況錄音</a>，根本是夢幻連動吧！</p>
+<p>其實這也不能說太奇怪，Cale原本就是patti smith專輯<a class="" href="https://sebastian.tw/albums/horses/">《Horses》</a>的製作人。</p>
+<p>但能聽見Patti跟Cale唱<a href="https://youtu.be/99og_g7rXnA" target="_blank" rel="noopener noreferrer" class="">I'm waiting for the man</a>還是感到驚喜啊。</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[雙層夢]]></title>
             <link>https://sebastian.tw/blog/double-layered-dream</link>
