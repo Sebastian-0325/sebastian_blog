@@ -11,8 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Sebastian.tw",
-  tagline: '歡迎來到我的網站！',
-  favicon: 'img/favicon-32x32.png',
+  tagline: 'I contain multitudes.',
+  favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -64,8 +64,6 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-          blogSidebarCount: 'ALL',
-          blogSidebarTitle: '所有文章',
         },
         
         theme: {
@@ -97,7 +95,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/social-card.jpg',
+      image: 'img/docusaurus-social-card.jpg',
       colorMode: {
         respectPrefersColorScheme: true,
       },
