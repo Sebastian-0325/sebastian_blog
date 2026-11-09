@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: "Sebastian.tw",
   tagline: 'I contain multitudes.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon-32x32.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
