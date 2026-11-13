@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Sebastian.tw",
-  tagline: 'I contain multitudes.',
+  tagline: '歡迎來到我的網站！',
   favicon: 'img/favicon-32x32.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -61,6 +61,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           
           // Useful options to enforce blogging best practices
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: '所有貼文', 
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
