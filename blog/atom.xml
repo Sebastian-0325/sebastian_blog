@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sebastian.tw/blog</id>
     <title>Sebastian.tw Blog</title>
-    <updated>2026-11-08T00:00:00.000Z</updated>
+    <updated>2026-11-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sebastian.tw/blog"/>
     <subtitle>Sebastian.tw Blog</subtitle>
     <icon>https://sebastian.tw/img/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[部落格文章與它們的產地]]></title>
+        <id>https://sebastian.tw/blog/2026/11/13/blog-writing</id>
+        <link href="https://sebastian.tw/blog/2026/11/13/blog-writing"/>
+        <updated>2026-11-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[這是我在「BlogBlog 同樂會 - 2026 年 11 月」的投稿文章。本月主題是「部落格文章（與他們的產地）」，由 資工小廢物 - JN 主持。如果你有自己的部落格，歡迎一起來參加！]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>這是我在「<a href="https://blogblog.club/party/" target="_blank" rel="noopener noreferrer" class="">BlogBlog 同樂會 - 2026 年 11 月</a>」的投稿文章。本月主題是「<a href="https://blog.giveanornot.com/blogblogparty-blog-posts" target="_blank" rel="noopener noreferrer" class="">部落格文章（與他們的產地）</a>」，由 <a href="https://blog.giveanornot.com/" target="_blank" rel="noopener noreferrer" class="">資工小廢物 - JN</a> 主持。如果你有自己的部落格，歡迎一起來參加！</p>
+</blockquote>
+<p>通常在晚上寫文章。</p>
+<p>上學搭校車的時間，不是在睡覺就是發呆，看著窗外流過的屋子和稻田，渙散。
+腦中閃爍著歌詞或是樂句，或是誰跟我說過的話，又或是小時候的夢境。文章的靈感就是在這樣的過程中產生。
+在學校晚自習的時候也常常盯著數學題目發呆，沒有辦法思考題目，想其它事情倒是挺靈活的。班上每天都發生好多事，不見得是多重要<sup><a href="https://sebastian.tw/blog/2026/11/13/blog-writing#user-content-fn-1-aba8f1" id="user-content-fnref-1-aba8f1" data-footnote-ref="true" aria-describedby="footnote-label" class="anchorTargetStickyNavbar_Vzrq">1</a></sup>，但總有回想不完的事情輪流在腦海中播放著。</p>
+<p>經過一整天之後，腦中會留下很多素材。</p>
+<p>回到家雜七雜八的事情做完後，我會打開我的thinkpad l390（假如還記得的話），在家目錄裡面的<code>/Blog</code>用<code>micro </code>寫一些東西，寫不下去了就就先屯著。過一段時間後想起它，再稍微修改一下子和詞彙，
+加上日期、標題跟slug，丟到網站目錄。輸進<code>npm run start</code>檢查一下。</p>
+<p>總覺得在終端機部屬網站的過程有一種儀式感，就像以前人們寫信要折好、封蠟、慎重的把信紙夾進信封裡頭，
+只是換成了<code>git add .</code>和<code>git push</code>。接下來就剩下等待，盯著git hub 的儀表板看進度圈，看有沒有跑出錯誤訊息。
+這些小瑣事好像讓它變成很莊重的一件事情。</p>
+<p>基本上都是在我的書桌上打字，桌燈調成黃色。我在這桌上用筆電的時間應該比寫作業還多，這裡晚上不太會有人吵我。</p>
+<p>目前為止，你所見的每一個文字都是純手動輸入，甚至沒有AI潤飾。我希望我的文字能表達出我這個<strong>人</strong>，就算是再微小的文字細節（包含錯誤和不通順）仍舊是我的一部分，我想完全保留它們。</p>
+<p>寫作的過程中思緒是流動的。一開始不會知道確切能寫出什麼，只有一小撮材料。寫著寫著，靈感會自前面已經寫出的文句之間冒出來，一切都是那麼的自然而流暢，只需要接住它們而已。這也是機器無法取代的，
+機器在決定好主題之後就已經不能變動了（如果下指令的人主題選得很糟更會放大這缺陷），但幸好人腦想得慢（至少我是這樣的），隨時會回心轉意，突然覺得這個句子應該再短一點，
+在這段和那段中間可以在加個什麼主題，又或是這句子後應該接個句點而不是逗點。過去所認為的缺點反而使我們獨特。</p>
+<p>嗯，差不多就是這樣子。</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorTargetStickyNavbar_Vzrq sr-only" id="footnote-label">Footnotes<a href="https://sebastian.tw/blog/2026/11/13/blog-writing#footnote-label" class="hash-link" aria-label="Footnotes的直接連結" title="Footnotes的直接連結" translate="no">​</a></h2>
+<ol>
+<li class="anchorTargetStickyNavbar_Vzrq" id="user-content-fn-1-aba8f1">
+<p>例如這種<a class="" href="https://sebastian.tw/blog/clean_tangerine">莫名其妙的東西</a> <a href="https://sebastian.tw/blog/2026/11/13/blog-writing#user-content-fnref-1-aba8f1" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不喜歡去ktv]]></title>
         <id>https://sebastian.tw/blog/2026/11/08/dont-like-ktv</id>
