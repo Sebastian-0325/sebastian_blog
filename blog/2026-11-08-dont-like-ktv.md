@@ -1,7 +1,7 @@
 ---
 
 title: 不喜歡去ktv
-
+slug: dont-like-ktv
 ---
 
 對於去ktv實在提不起什麼興趣。

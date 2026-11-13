@@ -1,6 +1,7 @@
 ---
 
 title: 部落格文章與它們的產地
+slug: blog-writing
 
 ---
 > 這是我在「[BlogBlog 同樂會 - 2026 年 11 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[部落格文章（與他們的產地）](https://blog.giveanornot.com/blogblogparty-blog-posts)」，由 [資工小廢物 - JN](https://blog.giveanornot.com/) 主持。如果你有自己的部落格，歡迎一起來參加！
